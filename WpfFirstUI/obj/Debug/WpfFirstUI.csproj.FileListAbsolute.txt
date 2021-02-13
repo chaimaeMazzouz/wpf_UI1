@@ -1,0 +1,15 @@
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\bin\Debug\WpfFirstUI.exe.config
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\bin\Debug\WpfFirstUI.exe
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\bin\Debug\WpfFirstUI.pdb
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI.csprojAssemblyReference.cache
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\MainWindow.g.cs
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\App.g.cs
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI_MarkupCompile.cache
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI_MarkupCompile.lref
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\MainWindow.baml
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI.g.resources
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI.Properties.Resources.resources
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI.csproj.GenerateResource.cache
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI.csproj.CoreCompileInputs.cache
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI.exe
+C:\Users\MZ\source\repos\WpfFirstUI\WpfFirstUI\obj\Debug\WpfFirstUI.pdb
